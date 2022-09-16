@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>L&#039;Atalante</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Meublé dans résidence avec piscine à Villeneuve-Loubet, Côte d&#039;Azur</description>
+	<lastBuildDate>Fri, 27 May 2022 09:29:21 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Bonjour le monde!</title>
+		<link>/2022/05/27/bonjour-le-monde/</link>
+					<comments>/2022/05/27/bonjour-le-monde/#respond</comments>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 27 May 2022 09:29:21 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https:/2022/05/27/bonjour-le-monde/</guid>
+
+					<description><![CDATA[Bienvenue à WordPress. Ceci est votre premier commentaire. Modifiez ou supprimez-le, puis commencez à écrire!]]></description>
+										<content:encoded><![CDATA[<p>Bienvenue à WordPress. Ceci est votre premier commentaire. Modifiez ou supprimez-le, puis commencez à écrire!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/05/27/bonjour-le-monde/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
